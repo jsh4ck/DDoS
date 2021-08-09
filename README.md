@@ -15,7 +15,7 @@ pkg install -y git
 
 git clone https://github.com/jsh4ck/DDoS
 
-cd AtaqueDDoS
+cd DDoS
 
 python2 ddosjs.py
 
